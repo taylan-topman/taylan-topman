@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on music review website
 - 📫 How to reach me taylan.emresoy@outlook.com
-- 😄 Pronouns: They/them
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I left the field for a while but am more resiliant and properly orientated now!
 
 <!---
